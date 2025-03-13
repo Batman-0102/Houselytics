@@ -10,7 +10,7 @@ Houselytics is an automated data analytics project that scrapes real estate list
 
 ## Tech Stack
 
-- **Backend**: Python (Scrapy), Firebase
+- **Backend**: Python (BeautifulSoup), Firebase
 - **AI Processing**: Scikit-learn
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: PostgreSQL
